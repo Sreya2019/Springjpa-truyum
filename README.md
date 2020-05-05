@@ -1,1 +1,1 @@
-# Springjpa-handson
+# Springjpa-truyum
